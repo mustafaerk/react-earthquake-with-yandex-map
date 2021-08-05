@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-earthquake-with-yandex-map/static/css/main.0d183a93.chunk.css",
+    "main.js": "/react-earthquake-with-yandex-map/static/js/main.6af209e1.chunk.js",
+    "main.js.map": "/react-earthquake-with-yandex-map/static/js/main.6af209e1.chunk.js.map",
+    "runtime-main.js": "/react-earthquake-with-yandex-map/static/js/runtime-main.c992cd78.js",
+    "runtime-main.js.map": "/react-earthquake-with-yandex-map/static/js/runtime-main.c992cd78.js.map",
+    "static/js/2.77f98f8a.chunk.js": "/react-earthquake-with-yandex-map/static/js/2.77f98f8a.chunk.js",
+    "static/js/2.77f98f8a.chunk.js.map": "/react-earthquake-with-yandex-map/static/js/2.77f98f8a.chunk.js.map",
+    "index.html": "/react-earthquake-with-yandex-map/index.html",
+    "static/css/main.0d183a93.chunk.css.map": "/react-earthquake-with-yandex-map/static/css/main.0d183a93.chunk.css.map",
+    "static/js/2.77f98f8a.chunk.js.LICENSE.txt": "/react-earthquake-with-yandex-map/static/js/2.77f98f8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c992cd78.js",
+    "static/js/2.77f98f8a.chunk.js",
+    "static/css/main.0d183a93.chunk.css",
+    "static/js/main.6af209e1.chunk.js"
+  ]
+}
