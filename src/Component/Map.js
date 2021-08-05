@@ -58,7 +58,7 @@ const YandexMap = ({ listEarthQuake }) => {
                     defaultState={{ selected: true }}
                 />
                 <Clusterer
-                    options={{ maxZoom: 6 }}
+                    options={{ maxZoom: 8 }}
                 >
                     {renderCirclies}
                 </Clusterer>
